@@ -1,0 +1,90 @@
+
+body{
+  text-align: center;
+  background-color: black;
+  font-family: sans-serif;
+}
+
+h2{
+  background-color: blue;
+  margin-top: auto;
+}
+.main{
+  width: 100%;
+  height: 150px;
+  background-image:url("top.jpg");
+
+}
+
+.middle{
+  border:1px solid black;
+  width: 100%;
+  margin-top: 25px;
+  height: 400px;
+}
+
+
+
+.a{
+   border:1px solid black;
+		width: 298px;
+    height: 400px;
+    float: left;
+    margin-left: 70PX;
+
+}
+h1:hover {
+ color:#add8e6;
+}
+
+h2:hover {
+ color:#add8e6;
+ shape-margin: 1px solid black;
+}
+
+
+
+.b{
+  border: 1px solid black;
+  width: 100%
+  height:50%;
+  background-image: url("bottom.jpg");
+  color: white;
+  font-size: 20px;
+  opacity: 0.2px;
+  color: #C3C3C3;
+  background-repeat:round;
+  backface-visibility: visible;
+
+}
+.end{
+  background-color: black;
+}
+
+#wild
+{
+  background-image:url("tiger.jpg");
+	background-size:100% 100%;
+}
+
+#Thrills
+{
+		background-image: url("surf.jpg");
+		background-size:100% 100%;
+}
+
+
+#Festive{
+	background-image: url("festive.jpg");
+	background-size:cover;
+}
+
+#Bliss{
+	background-image: url("bliss.jpg");
+		background-size:cover;
+}
+
+#Essence{
+	background-image: url("essence.jpg");
+		background-size:cover;
+}
